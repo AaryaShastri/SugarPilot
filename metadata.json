@@ -1,0 +1,5 @@
+{
+  "name": "SugarPilot - Diabetes Assistant",
+  "description": "A smart insulin calculation and carb-counting assistant using your personalized TDD and pre-meal glucose levels.",
+  "requestFramePermissions": []
+}
